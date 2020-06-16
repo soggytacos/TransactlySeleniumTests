@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/colman/JUnitTestDemo">
+        <classes>
+            <class name="org.example.untitled.InitialtestTest">
+<!--                <methods>-->
+<!--                    <include name="initialtest"/>-->
+<!--                </methods>-->
+            </class>
+            <class name="org.example.untitled.Test2">
+<!--                <methods>-->
+<!--                    <include name="testUntitledTestCase2"/>-->
+<!--                </methods>-->
+            </class>
+            <class name="org.example.untitled.LUCorder">
+
+            </class>
+        </classes>
+    </test>
+</suite>
